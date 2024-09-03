@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new project
 - 📫 You can reach me by iamsujittomar@gmail.com
 - 😄 Pronouns "Su" "ji" "t" 
-- ⚡ Fun fact i am to lazy
+- ⚡ Fun fact i am too lazy
 
 <!---
 iamsujittomar/iamsujittomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
